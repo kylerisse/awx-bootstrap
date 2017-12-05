@@ -11,4 +11,4 @@ This script is not idempotent
 
 ### usage
 
-```curl https://github.com/kylerisse/awx-bootstrap/raw/install-awx.sh | sh```
+```curl https://github.com/kylerisse/awx-bootstrap/blob/master/install-awx.sh | sh```
